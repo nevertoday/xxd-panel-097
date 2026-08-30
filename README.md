@@ -15,6 +15,13 @@
 </div>
 
 ## 样张
+已核验样张（英文智能配字）：
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
 
 样张位已预留。收到 097 的可核验样张后将在这里展示；不会借用其他编号的图片。
 
