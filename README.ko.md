@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 097
+# 🦁 XXD Panel 097｜레트로 설명 카드
 
 ### 자유 윤곽과 기하 해칭으로 사진의 흑백 긴장을 재구성합니다
 

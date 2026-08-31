@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 097
+# 🦁 XXD Panel 097｜复古说明卡
 
 ### 把照片压缩成一张有用、好笑、像老说明卡的双色图解
 

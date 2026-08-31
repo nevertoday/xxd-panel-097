@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 097
+# 🦁 XXD Panel 097｜Retro Instruction Card
 
 ### Recompose the photograph through loose schematic contours, economy-of-line geometry, and negative space
 
