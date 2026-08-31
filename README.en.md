@@ -14,16 +14,23 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 097 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 097 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
@@ -72,11 +79,11 @@ analyse subject, contour, pose, and narrative relation → retain only identity-
 
 ## Recognisable finished traits
 
-- Use exactly one blue illustration hue; tonal range comes from line weight, pressure, overlap count, and density, never a second colour.
-- Use deep black for contour, structure, and information; derive the second spot colour from the source instead of defaulting to red.
-- Resolve hair, architecture, object turns, plants, or other identity-bearing areas and simplify everything else.
-- Keep typography small, quiet, bookish, widely spaced, and integrated into the negative space.
-- Avoid watercolour, colour fills, charcoal masses, blurred gradients, tracing filters, heavy black outlines, smooth vectors, technical drafting, cartoons, anime, and 3D.
+- Use deep black, warm paper white, and one second spot colour extracted from the photograph; the two-colour schematic drawing remains the core.
+- Follow economy of line and never default the second source-derived colour mechanically to red.
+- Retain only the tabletop, ground, boundary, opening, panel, or directional clue needed to explain the subject.
+- Keep hand-drawn commercial lettering and callout marks sparse, useful, and integrated with the diagram rather than decorative.
+- Avoid realism, thick comic outlines, polished vectors, cartoons, excessive detail, computer filters, and templated posters.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-097-prompt.en.md)
 
