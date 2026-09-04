@@ -10,7 +10,7 @@ Create fresh PNG artwork with `references/original-prompt/zh-CN.md` as the **sol
 ## Authority boundary
 
 1. Read `references/original-prompt/zh-CN.md` completely immediately before building every generation request.
-2. Its first Markdown heading is an administrative document label, not creative content. Omit that heading from the image-generation request, then copy the entire remaining source-brief body verbatim. Do not summarize, translate, polish, expand, reinterpret, or replace that body with this file, a README, a sample, either runtime-adapter reference.
+2. Copy its entire source-brief body verbatim. If a future source archive adds an administrative Markdown heading, omit only that heading; the current archived source has no such heading, so use it in full. Do not summarize, translate, polish, expand, reinterpret, or replace that body with this file, a README, a sample, or either runtime-adapter reference.
 3. The source brief owns subject transformation, composition inside the design region, colour, palette derivation or fixed colour choices, materials, texture, whitespace, text amount, wording logic, typographic character, and prohibitions.
 4. Runtime instructions may change only: selected output mode, final canvas ratio or pixels, placement or visibility of the reality source, device profile, wallpaper relationship, target text language, and user-exact text.
 5. Append all runtime instructions **after** the complete source-brief body. Never insert them into, or rewrite, its aesthetic paragraphs.
