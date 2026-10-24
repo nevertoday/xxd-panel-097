@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-097"
-  short_description: "Create Panel 097 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-097; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "复古说明卡：把照片压缩成黑线加一种专色、略带幽默的老式说明书图解"
+  default_prompt: "Use $xxd-panel-097 to turn my photo into Retro Instruction Card artwork."
 
 policy:
   allow_implicit_invocation: true

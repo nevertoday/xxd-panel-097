@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 097｜Retro Instruction Card: compresses the subject, structure and story of a photo into a mid-century vernacular commercial diagram — economy of line in direct black pen outlines, rectangles, circles and simple facets, people and animals gently exaggerated, machines and buildings reduced to boxes, holes and panels, flat schematic perspective, pointer lines and light functional humour, black plus one spot colour taken from the photo on warm cream paper, and short labels in plain hand-lettered commercial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-097 or asks for retro instruction-card, schematic, two-colour spot print or mid-century commercial illustration from a photo.",
+  "short_description": "复古说明卡：把照片压缩成黑线加一种专色、略带幽默的老式说明书图解",
+  "zh-CN": {
+    "name": "复古说明卡",
+    "tagline": "把照片压缩成一张有用、有点好笑、像老说明卡的双色图解。",
+    "look": "主体用最省的黑色钢笔线、矩形、圆形、菱形和简单切面概括出来，人物和动物比例可以略夸张，机器和建筑则变成方盒、孔洞和面板。透视是平面的示意画法，配几条指示线和方向符号，像在认真“解释这件事”，又带一点笨拙的幽默。颜色只有深黑加一种从照片里提出来的专色，比如砖红、朱红、深绿或钴蓝，印在温暖的米白无涂层纸上，有轻微纸纤维和套印偏移。文字是朴素、略笨拙的复古手绘商业字，做成短标注、箭头说明或小标题。",
+    "traits": [
+      "一线到位",
+      "功能轮廓",
+      "示意透视",
+      "第二专色",
+      "手绘商业字",
+      "轻微幽默"
+    ],
+    "good": [
+      "有明确用途或结构的物件：烤面包机、老式电话、手推车、咖啡壶",
+      "有动作、能讲成“怎么做”的场景：浇花的人、遛狗、修自行车、端着托盘的服务员",
+      "交通工具和小建筑：公交车、加油站、报亭、小船"
+    ],
+    "poor": [
+      "靠氛围、光影和细腻情绪取胜的照片：逆光人像、雨夜街景、雾中山林",
+      "需要写实还原或明暗细腻的肖像和产品图",
+      "想要探索性重复线稿、真实 3D、光滑矢量或卡通贴纸效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Retro Instruction Card",
+    "tagline": "Compresses a photo into a useful, slightly funny two-colour diagram, like an old instruction card.",
+    "look": "The subject is summed up with the fewest black pen lines, rectangles, circles, diamonds and simple facets; people and animals may get gently exaggerated proportions, while machines and buildings become boxes, holes and panels. Perspective is flat and schematic, with a few pointer lines and direction marks, as if earnestly explaining how something works, with a touch of clumsy humour. The colours are deep black plus one spot colour drawn from the photo, such as brick red, vermilion, deep green or cobalt, printed on warm uncoated cream paper with faint fibre and slight misregistration. Text is plain, slightly awkward retro hand-lettered commercial type used for short labels, arrow notes or small headings.",
+    "traits": [
+      "Economy of line",
+      "Functional outlines",
+      "Schematic perspective",
+      "Second spot colour",
+      "Hand-lettered commercial type",
+      "Light humour"
+    ],
+    "good": [
+      "Objects with a clear use or structure: a toaster, an old telephone, a handcart, a coffee pot",
+      "Scenes with an action you could explain as a how-to: watering plants, walking a dog, fixing a bike, a waiter carrying a tray",
+      "Vehicles and small buildings: a bus, a petrol station, a newsstand, a small boat"
+    ],
+    "poor": [
+      "Photos that rely on atmosphere, light and subtle emotion: backlit portraits, rainy night streets, misty forests",
+      "Portraits or product shots that need realistic likeness or fine shading",
+      "Requests for sketchy exploratory linework, real 3D, glossy vectors or a cartoon-sticker look"
+    ]
+  },
+  "ja": {
+    "name": "レトロ説明カード",
+    "tagline": "写真を、役に立って少しおかしい、古い説明カードのような二色の図解に凝縮します。",
+    "look": "主役は最小限の黒いペン線と、長方形、円、ひし形、単純な切り面でまとめられます。人物や動物は比率を少し誇張し、機械や建物は箱、穴、パネルに置き換えます。遠近は平面的な模式図法で、指示線や方向記号を添え、まじめに「これを説明している」ようでいて少し不器用なユーモアがあります。色は濃い黒と、写真から取った特色一色だけ。煉瓦色、朱、深緑、コバルトなどを温かみのある生成りの非塗工紙に刷り、紙の繊維や版ずれがかすかに残ります。文字は素朴で少しぎこちないレトロな手描きの商業文字で、短いラベルや矢印の説明、小見出しになります。",
+    "traits": [
+      "線の経済性",
+      "機能的な輪郭",
+      "模式的な遠近",
+      "第二の特色",
+      "手描きの商業文字",
+      "ほのかなユーモア"
+    ],
+    "good": [
+      "用途や構造がはっきりした物：トースター、古い電話、手押し車、コーヒーポット",
+      "「やり方」として説明できる動きのある場面：花に水をやる人、犬の散歩、自転車の修理、トレーを運ぶ店員",
+      "乗り物や小さな建物：バス、ガソリンスタンド、新聞スタンド、小舟"
+    ],
+    "poor": [
+      "空気感や光、繊細な感情で見せる写真：逆光のポートレート、雨の夜の街、霧の森",
+      "写実的な再現や細やかな陰影が必要な人物写真や商品写真",
+      "探るように重ねた線画、本物の 3D、つるっとしたベクター、ステッカー風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "레트로 설명 카드",
+    "tagline": "사진을 쓸모 있고 조금 우스운, 옛 설명 카드 같은 2색 도해로 압축합니다.",
+    "look": "주인공은 가장 적은 검은 펜 선과 직사각형, 원, 마름모, 단순한 단면으로 요약됩니다. 사람과 동물은 비율을 살짝 과장하고, 기계와 건물은 상자, 구멍, 패널로 바뀝니다. 원근은 평면적인 도식 방식이며 지시선과 방향 기호를 곁들여, 진지하게 '이것을 설명하는' 듯하면서도 서툰 유머가 묻어납니다. 색은 짙은 검정과 사진에서 뽑은 별색 하나뿐으로, 벽돌색, 주홍, 짙은 초록, 코발트 등을 따뜻한 미색 비도공지에 찍어 종이 섬유와 인쇄 어긋남이 옅게 남습니다. 글자는 소박하고 조금 서툰 레트로 손글씨 상업 서체로, 짧은 라벨, 화살표 설명, 작은 제목이 됩니다.",
+    "traits": [
+      "선의 절약",
+      "기능적 윤곽",
+      "도식적 원근",
+      "두 번째 별색",
+      "손글씨 상업 서체",
+      "가벼운 유머"
+    ],
+    "good": [
+      "용도나 구조가 분명한 사물: 토스터, 옛날 전화기, 손수레, 커피포트",
+      "'하는 법'으로 설명할 수 있는 동작이 있는 장면: 꽃에 물 주는 사람, 강아지 산책, 자전거 수리, 쟁반을 든 점원",
+      "탈것과 작은 건물: 버스, 주유소, 신문 가판대, 작은 배"
+    ],
+    "poor": [
+      "분위기, 빛, 섬세한 감정이 핵심인 사진: 역광 인물, 비 오는 밤거리, 안개 낀 숲",
+      "사실적 재현이나 섬세한 명암이 필요한 인물·제품 사진",
+      "탐색하듯 반복한 스케치 선, 실제 3D, 매끈한 벡터, 카툰 스티커 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "بطاقة تعليمات رجعية",
+    "tagline": "يختصر الصورة في رسم توضيحي بلونين، مفيد وطريف قليلاً، كبطاقة تعليمات قديمة.",
+    "look": "يُلخَّص العنصر بأقل عدد من خطوط القلم السوداء والمستطيلات والدوائر والمعيّنات والأوجه البسيطة؛ قد تُبالغ نِسب الأشخاص والحيوانات قليلاً، بينما تتحول الآلات والمباني إلى صناديق وثقوب وألواح. المنظور مسطح وتخطيطي، مع بضعة خطوط إشارة ورموز اتجاه، كأنه يشرح بجدية كيف يعمل الشيء، وفيه شيء من الطرافة الخرقاء. الألوان أسود عميق ولون خاص واحد مأخوذ من الصورة، كالأحمر الآجري أو القرمزي أو الأخضر الداكن أو الكوبالتي، مطبوع على ورق كريمي دافئ غير مصقول مع ألياف خفيفة وانزياح طباعي بسيط. النص بخط تجاري يدوي رجعي بسيط فيه شيء من الارتباك، للتسميات القصيرة وملاحظات الأسهم والعناوين الصغيرة.",
+    "traits": [
+      "اقتصاد الخط",
+      "محيطات وظيفية",
+      "منظور تخطيطي",
+      "لون خاص ثانٍ",
+      "خط تجاري يدوي",
+      "طرافة خفيفة"
+    ],
+    "good": [
+      "أشياء ذات استخدام أو بنية واضحة: محمصة خبز، هاتف قديم، عربة يد، إبريق قهوة",
+      "مشاهد فيها فعل يمكن شرحه كخطوات: سقي النباتات، تنزيه كلب، إصلاح دراجة، نادل يحمل صينية",
+      "وسائل نقل ومبانٍ صغيرة: حافلة، محطة وقود، كشك صحف، قارب صغير"
+    ],
+    "poor": [
+      "صور تقوم على الأجواء والضوء والمشاعر الدقيقة: صور شخصية بإضاءة خلفية، شوارع ليلية ممطرة، غابات ضبابية",
+      "صور شخصية أو صور منتجات تحتاج إلى شبه واقعي أو تظليل دقيق",
+      "طلب خطوط تخطيطية استكشافية متكررة أو ثلاثي أبعاد حقيقي أو متجهات لامعة أو مظهر ملصقات كرتونية"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-097
-description: "Create XXD Panel 097 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-097 or requests the exact Panel 097 style."
+description: "XXD Panel 097｜Retro Instruction Card: compresses the subject, structure and story of a photo into a mid-century vernacular commercial diagram — economy of line in direct black pen outlines, rectangles, circles and simple facets, people and animals gently exaggerated, machines and buildings reduced to boxes, holes and panels, flat schematic perspective, pointer lines and light functional humour, black plus one spot colour taken from the photo on warm cream paper, and short labels in plain hand-lettered commercial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-097 or asks for retro instruction-card, schematic, two-colour spot print or mid-century commercial illustration from a photo."
 ---
 
 # XXD Panel 097
